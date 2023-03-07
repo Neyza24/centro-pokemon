@@ -30,3 +30,8 @@ let persona = {
 }
 
 console.log(persona);
+
+/**
+ * @type{null}
+ */
+let apodo;

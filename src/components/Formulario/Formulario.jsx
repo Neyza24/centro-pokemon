@@ -4,7 +4,7 @@ import pokebola from "../../assets/pokebola.png";
 import entrenador from "../../assets/entrenador.png";
 import pikachu from "../../assets/pikachu.png";
 import Detalle from "./Detalle";
-import Input from "../Input/Input";
+import Input from "../input/Input";
 
 // En este componente tenemos nuestro formulario y dentro de él
 // tenemos los componentes que necesitan consumir nuestro estado.
